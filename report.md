@@ -3,3 +3,6 @@ There are appps like facebook and tiktok that dont need to be downloaded in orde
 HTML -> Hypertext Markup Language and is used to structure our website .
 CSS-> Cascading Style Sheet and is used for how we want our website to look like (font size,layout,colour etc).
 
+Software design is the process of creating a software to solve real worldworld problems.
+there are three methods mainly Waterfall, iterative and incrimental and agile.
+
